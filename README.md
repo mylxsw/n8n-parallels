@@ -266,12 +266,5 @@ All errors are properly logged and returned in a structured format.
 
 ## License
 
-[Add your license information here]
+MIT
 
-## Contributing
-
-[Add contributing guidelines here]
-
-## Support
-
-[Add support information here]
